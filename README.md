@@ -2,7 +2,7 @@
 Deep feature enhancement method for land cover with irregular and sparse spatial distribution features: a case study on open-pit mining
 
 
-Gaodian Zhou, Jiahui Xu, Weitao Chen, Xianju Li, Jun Li and Lizhe Wang,[Deep feature enhancement method for land cover with irregular and sparse spatial distribution features: a case study on open-pit mining)(IEEE TGRS, 2023)
+Gaodian Zhou, Jiahui Xu, Weitao Chen, Xianju Li, Jun Li and Lizhe Wang,[Deep feature enhancement method for land cover with irregular and sparse spatial distribution features: a case study on open-pit mining](https://ieeexplore.ieee.org/abstract/document/10034775)(IEEE TGRS, 2023)
 
 ![image](Figures/Fig-1.png)
 Framework-EG-UNet
