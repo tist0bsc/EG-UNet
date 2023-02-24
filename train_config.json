@@ -1,0 +1,20 @@
+{   
+    "num_classes": 20,
+    "batch_size": 8,
+    "num_epoch": 200,
+    "lr": 0.0001,
+    "weight_decay": 1e-4,
+    "momentum": 0.95,
+    "train_list": "newdata/train20.txt",
+    "test_list": "newdata/val20.txt",
+
+
+    "train_model": { 
+        "select" : 0,
+        "model": ["unetFEGcn"]
+    },
+    "save_model": {
+        "save": true,
+        "save_path": "saved"
+    }
+}

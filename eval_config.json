@@ -1,0 +1,12 @@
+{   
+    "num_classes": 20,
+    "img_txt": "newdata/test20.txt",
+    "train_model": { 
+        "select" : 0,
+        "model": ["unetFEGcn"]
+    },
+    "save_model": {
+        "save": true,
+        "save_path": "saved/"
+    }
+}

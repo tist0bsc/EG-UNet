@@ -1,0 +1,13 @@
+{   
+    "num_classes": 20,
+    "pre_dir": "predict/",
+    "img_txt": "newdata/test20.txt",
+    "predict_model": { 
+        "select" : 0,
+        "model": ["unetFEGcn"]
+    },
+    "save_model": {
+        "save": true,
+        "save_path": "saved/"
+    }
+}
