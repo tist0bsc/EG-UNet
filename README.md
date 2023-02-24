@@ -25,7 +25,7 @@ GDAL==3.0.4
 ### parameters
 You can change epoch，batch_size，lr and decay in train_config.json
 ### train
-1.Download the files mentioned in "newdata/readme.txt"  
+1.Download the files mentioned in "newdata/readme"  
 2.python3 main.py  
 
 It will create a folder, named 'logs', and a log file. This log file will record the training process. 
